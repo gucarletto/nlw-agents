@@ -15,6 +15,13 @@
       "when": 1751993339858,
       "tag": "0001_clammy_jetstream",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752070331778,
+      "tag": "0002_mixed_omega_sentinel",
+      "breakpoints": true
     }
   ]
 }
